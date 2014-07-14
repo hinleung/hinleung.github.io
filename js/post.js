@@ -25,12 +25,12 @@ $(document).ready(function(){
 
     //***********************
     //**评论的代码也删掉哦***
-    window.disqus_shortname = 'beiyuu'; // required: replace example with your forum shortname
-    $('#disqus_container .comment').on('click',function(){
-        $(this).html('加载中...');
-        var that = this;
-        $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
-    });
+    //window.disqus_shortname = 'beiyuu'; // required: replace example with your forum shortname
+    //$('#disqus_container .comment').on('click',function(){
+        //$(this).html('加载中...');
+        //var that = this;
+        //$.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
+    //});
     //**评论的代码也删掉哦***
     //***********************
 
@@ -47,57 +47,7 @@ $(document).ready(function(){
         }
     });
 
-    (function(){
-        var ie6 = ($.browser.msie && $.browser.version=="6.0") ? true : false;
-
-        function initHeading(){
-            var h2 = [];
-            var h3 = [];
-            var h2index = 0;
-
-            $.each($('.entry h2, .entry h3'),function(index,item){
-                if(item.tagName.toLowerCase() == 'h2'){
-                    var h2item = {};
-                    h2item.name = $(item).text();
-                    h2item.id = 'menuIndex'+index;
-                    h2.push(h2item);
-                    h2index++;
-                }else{
-                    var h3item = {};
-                    h3item.name = $(item).text();
-                    h3item.id = 'menuIndex'+index;
-                    if(!h3[h2index-1]){
-                        h3[h2index-1] = [];
-                    }
-                    h3[h2index-1].push(h3item);
-                }
-                item.id = 'menuIndex' + index;
-            });
-
-            return {h2:h2,h3:h3}
-        }
-
-        function genTmpl(){
-            var h1txt = $('h1').text();
-            var tmpl = '<ul><li class="h1"><a href="#">' + h1txt + '</a></li>';
-
-            var heading = initHeading();
-            var h2 = heading.h2;
-            var h3 = heading.h3;
-
-            for(var i=0;i<h2.length;i++){
-                tmpl += '<li><a href="#" data-id="'+h2[i].id+'">'+h2[i].name+'</a></li>';
-
-                if(h3[i]){
-                    for(var j=0;j<h3[i].length;j++){
-                        tmpl += '<li class="h3"><a href="#" data-id="'+h3[i][j].id+'">'+h3[i][j].name+'</a></li>';
-                    }
-                }
-            }
-            tmpl += '</ul>';
-
-            return tmpl;
-        }
+    
 
         function genIndex(){
             var tmpl = genTmpl();
