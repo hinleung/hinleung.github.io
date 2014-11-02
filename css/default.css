@@ -99,8 +99,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content h2 { font-size:20px; margin-bottom:15px; word-break: break-all;}
 .index-content h2 a { color:#444 }
 .index-content h2 a:hover { color:#E50053; text-decoration:none; }
-.index-content .title-desc {color:#999;font-size:14px;line-height:1.6em;margin-bottom: 15px;}
-
+.index-content .title-desc {color:#999;font-size:14px;line-height:1.6em;}
+.index-content .title-desc .img{margin-top:10px;}
 .index-content .artical-cate { width:70%; margin:0 auto; }
 .index-content .artical-cate li { display:inline-block; *float:left; zoom:1; font-size:18px; width:32%; cursor:pointer; }
 .index-content .artical-cate li a,
