@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 使用Backbone.js开发Chrome便签插件
-description: 没有合适的插件，就只好自己动手了，同时也用Backbone.js来练练手。
+title: 乐器公司网站
+description: 为一家乐器公司设计，网站目的是宣传公司品牌教育以及推销乐器。
 category: blog
 ---
 
