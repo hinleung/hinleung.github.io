@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Song Furniture Construction & Trading Pte Ltd网站改版设计
-description: 改版后效果<a href="http://www.songfurniture.com.sg/"</a><img src="/images/SongFurnitureConstruction/3-01.jpg">
+description: 改版后效果<a href="http://www.songfurniture.com.sg/">Song Website</a><img src="/images/SongFurnitureConstruction/3-01.jpg">
 category: blog
 ---
 
