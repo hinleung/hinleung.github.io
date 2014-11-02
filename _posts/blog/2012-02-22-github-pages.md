@@ -2,7 +2,7 @@
 layout: post
 title: 乐器公司网站设计
 category: blog
-description: <img src="/images/新加波乐器公司/design_1203-01.jpg">
+description: <img src="/images/新加波乐器公司/design_1203-01.jpg"> </div>
 ---
 
 <img src="/images/新加波乐器公司/design_1203-01.jpg">
