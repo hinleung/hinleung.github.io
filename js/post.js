@@ -47,35 +47,35 @@ $(document).ready(function(){
         }
     });
 
-    (function(){
-        var ie6 = ($.browser.msie && $.browser.version=="6.0") ? true : false;
+    //(function(){
+        //var ie6 = ($.browser.msie && $.browser.version=="6.0") ? true : false;
 
-        function initHeading(){
-            var h2 = [];
-            var h3 = [];
-            var h2index = 0;
+        //function initHeading(){
+            //var h2 = [];
+           // var h3 = [];
+            // h2index = 0;
 
-            $.each($('.entry h2, .entry h3'),function(index,item){
-                if(item.tagName.toLowerCase() == 'h2'){
-                    var h2item = {};
-                    h2item.name = $(item).text();
-                    h2item.id = 'menuIndex'+index;
-                    h2.push(h2item);
-                    h2index++;
-                }else{
-                    var h3item = {};
-                    h3item.name = $(item).text();
-                    h3item.id = 'menuIndex'+index;
-                    if(!h3[h2index-1]){
-                        h3[h2index-1] = [];
-                    }
-                    h3[h2index-1].push(h3item);
-                }
-                item.id = 'menuIndex' + index;
-            });
+           // $.each($('.entry h2, .entry h3'),function(index,item){
+             //   if(item.tagName.toLowerCase() == 'h2'){
+             //       var h2item = {};
+             //       h2item.name = $(item).text();
+             //       h2item.id = 'menuIndex'+index;
+             //       h2.push(h2item);
+             //       h2index++;
+             //   }else{
+             //       var h3item = {};
+             //       h3item.name = $(item).text();
+             //       h3item.id = 'menuIndex'+index;
+             //       if(!h3[h2index-1]){
+             //           h3[h2index-1] = [];
+             //       }
+             //       h3[h2index-1].push(h3item);
+             //   }
+             //   item.id = 'menuIndex' + index;
+           // });
 
-            return {h2:h2,h3:h3}
-        }
+          //  return {h2:h2,h3:h3}
+       // }
 
         
 
