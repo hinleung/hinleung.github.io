@@ -11,7 +11,7 @@ body,button,input,select,textarea{font-size:12px/1.5;}
 input,select,textarea{font-size:100%;}
 table{border-collapse:collapse;border-spacing:0;}
 th{text-align:inherit;}
-fieldset,img,a img{border:20px;max-width:800px;max-height:800px;}
+fieldset,img,a img{border:0px;max-width:800px;max-height:800px;}
 iframe{display:block;}
 abbr,acronym{border:0;font-variant:normal;}
 del{text-decoration:line-through;}
@@ -68,7 +68,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ol{margin-bottom:25px;margin-left:25px;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}
 .entry blockquote{margin-left:25px;font-size:14px;font-style:italic}
-.entry img{max-width:670px;display:block;margin:10px auto;}
+.entry img{max-width:670px;display:block;margin:20px auto;}
 
 
 /*.index-content .aside {
