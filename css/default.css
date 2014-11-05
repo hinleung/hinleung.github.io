@@ -186,7 +186,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 /**************返回顶部**************/
 #backtop a { /* back to top button */
     position: fixed;
-    bottom: 0px; /* 小按钮到浏览器底边的距离 */
+    bottom: 50px; /* 小按钮到浏览器底边的距离 */
     right: 50px; /* 小按钮到浏览器右边框的距离 */
     color: #333; /* 小按钮中文字的颜色 */
     z-index: 1000;
