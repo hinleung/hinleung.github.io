@@ -57,7 +57,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 
 
 /****************entry style**************/
-.sidenav { width:240px; background:#fff; float:right; right:0; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; }
+.sidenav { width:240px; background:#fff; float:right; right:0; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; position:fixed; top:15px; left:15px; z-index:5; }
 .sidenav h2 { font-size:18px; color:#333; margin-bottom:15px; }
 .sidenav ul { margin-bottom:50px; }
 .sidenav li { margin-bottom:12px; word-break: break-all;}
@@ -126,7 +126,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 
 
 /**************目录导航**************/
-#menuIndex {overflow:auto; position:fixed;}
+#menuIndex {overflow:auto; }
 #menuIndex a {display:block; padding:2px 0; }
 #menuIndex a:hover {text-decoration:none;}
 #menuIndex ul {margin-bottom:10px;}
