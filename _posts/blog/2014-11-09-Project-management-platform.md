@@ -55,7 +55,7 @@ category: blog
 <img src="/images/项目管理平台/选择项目的日程.png">
 
 *Everything*
-<img src="/images/项目管理平台/Everything.png">
+<img src="/images/项目管理平台/everything.png">
 
 *动态*
 <img src="/images/项目管理平台/动态.png">
