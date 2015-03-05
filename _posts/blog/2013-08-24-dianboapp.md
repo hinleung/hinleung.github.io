@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 点播应用
-description: <img src="/images/GV/点播应用/推荐.jpg">
+description: <a href="/dianboapp"><img src="/images/GV/点播应用/推荐.jpg"></a>
 category: blog
 ---
 

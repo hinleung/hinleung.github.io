@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 美食玩家设计工作
-description: 在美食玩家里做了许多不同设计工作:Logo、名片、网站、手机移动端等等<br><img src="/images/美食玩家/最终logo-02.jpg"></br>
+description: 在美食玩家里做了许多不同设计工作:Logo、名片、网站、手机移动端等等<br><a href="/meishiwanjiaWork"><img src="/images/美食玩家/最终logo-02.jpg"></a></br>
 category: blog
 ---
 

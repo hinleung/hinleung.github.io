@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 电商B2B网站
-description: <img src="/images/GV/b2b/首页.jpg">
+description: <a href="/Hmallb2bweb"><img src="/images/GV/b2b/首页.jpg"></a>
 category: blog
 ---
 
