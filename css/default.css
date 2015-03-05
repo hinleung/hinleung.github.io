@@ -12,7 +12,7 @@ input,select,textarea{font-size:100%;}
 table{border-collapse:collapse;border-spacing:0;}
 th{text-align:inherit;}
 fieldset,img,a img{border:0px;max-width:800px;max-height:800px;}
-img {margin-top: 15px;}
+img {margin-top: 15px;vertical-align:middle;}
 iframe{display:block;}
 abbr,acronym{border:0;font-variant:normal;}
 del{text-decoration:line-through;}
