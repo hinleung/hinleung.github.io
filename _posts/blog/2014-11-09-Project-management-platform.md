@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 互动娱乐研发平台项目设计
-description: <img src="/images/项目管理平台/首页.png">
+description: <img src="/images/项目管理平台/活动预告.png">
 category: blog
 ---
 
