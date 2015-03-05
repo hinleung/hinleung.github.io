@@ -14,10 +14,10 @@ category: blog
 
 iOS移动端
 <img src="/images/美食玩家/iPhone原型.jpg">
-<img src="/images/美食玩家/app版本-01-04.jpg">
-<img src="/images/美食玩家/app版本-01-08.jpg">
-<img src="/images/美食玩家/app版本-01-12.jpg">
-<img src="/images/美食玩家/app版本-01-20.jpg">
+<img src="/images/美食玩家/app版本-01-04.png">
+<img src="/images/美食玩家/app版本-01-08.png">
+<img src="/images/美食玩家/app版本-01-12.png">
+<img src="/images/美食玩家/app版本-01-20.png">
 
 名片
 <img src="/images/美食玩家/美食玩家名片效果-01-01.jpg">
