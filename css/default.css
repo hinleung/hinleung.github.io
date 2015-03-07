@@ -57,7 +57,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 #content {width:1060px;margin:90px auto 60px;min-height:400px;height:auto !important;height:400px; }
 
 
-/****************entry style**************/
+/****************列表&正文div样式**************/
 .sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:50px; margin-left: 780px; box-shadow:0 1px 4px #ccc; position:fixed; z-index:5; }
 .sidenav h2 { font-size:18px; color:#333; margin-bottom:15px; }
 .sidenav ul { margin-bottom:0px; }
@@ -79,7 +79,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}
 .entry blockquote{margin-left:25px;font-size:14px;font-style:italic}
 .entry img{max-width:670px;display:block;margin:20px auto;}
-.postl{margin-bottom:80px;width:680px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; }
+.postl{margin-bottom:60px;width:680px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; }
 .postl ul{margin-bottom:25px;margin-left:25px;}
 .postl p+ul {margin-top:-20px;}
 .postl ul li{margin-bottom:5px;list-style:disc;line-height:1.8em;}
@@ -87,7 +87,6 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .postl ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}
 .postl blockquote{margin-left:25px;font-size:14px;font-style:italic}
 .postl img{max-width:670px;display:block;margin:20px auto;}
-
 
 /*.index-content .aside {
     position: fixed;
