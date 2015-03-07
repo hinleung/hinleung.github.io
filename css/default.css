@@ -34,7 +34,7 @@ body .hide{display:none;}
 
 
 /***********default settings**********/
-body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;}
+body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px; background-color:#e8e8e8}
 a {color:#4A75B5;text-decoration:none;outline:none;}
 a:hover {text-decoration:underline}
 a.external {padding-right:13px;background:url('/images/icons.gif') no-repeat right 1px;}
@@ -113,7 +113,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content .section { margin-left:20%; padding-top:80px; padding-right:20%; ;}
 
 .index-content .artical-list { width:70%; height:300px; margin:0 auto; }
-.index-content .artical-list li { margin-bottom:70px; }
+.index-content .artical-list li { margin-bottom:0px; }
 .index-content h2 { font-size:20px; margin-bottom:15px; word-break: break-all;}
 .index-content h2 a { color:#444 }
 .index-content h2 a:hover { color:#E50053; text-decoration:none; }
