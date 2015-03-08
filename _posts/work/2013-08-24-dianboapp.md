@@ -2,7 +2,7 @@
 layout: post
 title: 点播应用
 description: <a href="/dianboapp"><img src="/images/GV/点播应用/首页02.jpg"></a>
-category: blog
+category: work
 ---
 
 <img src="/images/GV/点播应用/首页02.jpg">
