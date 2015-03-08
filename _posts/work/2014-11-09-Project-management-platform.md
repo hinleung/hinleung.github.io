@@ -2,7 +2,7 @@
 layout: post
 title: 工作平台项目设计
 description: <a href="/Project-management-platform"><img src="/images/项目管理平台/活动预告.png"></a>
-category: blog
+category: work
 ---
 
 ###设计思路

@@ -2,7 +2,7 @@
 layout: post
 title: 酒店IPTV
 description: <a href="/HotelIPTV"><img src="/images/GV/酒店iptv/03定制版酒店_直播.jpg"></a>
-category: blog
+category: work
 ---
 
 <img src="/images/GV/酒店iptv/03定制版酒店_直播.jpg">

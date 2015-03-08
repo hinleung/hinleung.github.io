@@ -2,7 +2,7 @@
 layout: post
 title: 盒子应用模板
 description: <a href="/dianboapp"><img src="/images/GV/泰捷模板/首页-超出一屏.jpg"></a>
-category: blog
+category: work
 ---
 
 <img src="/images/GV/泰捷模板/首页-超出一屏.jpg">
