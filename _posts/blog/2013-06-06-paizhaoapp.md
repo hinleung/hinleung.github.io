@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 豆瓣FM(iOS 3.0)使用体会
+title: 拍照应用交互体验
 category: blog
-description: 拍照应用交互体验
+description: 
 ---
 
 目的: 了解当前流行的拍照分享应用的交互设计和体验
