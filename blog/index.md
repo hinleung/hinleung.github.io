@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content opinion">
+<div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Work</span></a></li>
@@ -12,7 +12,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.opinion %}
+        {% for post in site.categories.blog %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
