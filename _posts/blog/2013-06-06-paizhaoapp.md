@@ -2,15 +2,15 @@
 layout: post
 title: 拍照应用交互体验
 category: blog
-description: 目的: 了解当前流行的拍照分享应用的交互设计和体验
-从用户角度，对Instagram、美图秀秀、魔漫相机三款应用的进行交互体验分析
+description: 目的: 了解当前流行的拍照分享应用的交互设计和体验。从用户角度，对Instagram、美图秀秀、魔漫相机三款应用的进行交互体验分析
+
 ---
 
 目的: 了解当前流行的拍照分享应用的交互设计和体验
 从用户角度，对Instagram、美图秀秀、魔漫相机三款应用的进行交互体验分析
 
 <ul>
-    <li>体验的应用均为android版</li>
+<li>体验的应用均为android版</li>
 </ul>
 
 ##Instagram
