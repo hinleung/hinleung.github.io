@@ -1,21 +1,21 @@
 ---
 layout: post
 title: 豆瓣FM(iOS 3.0)使用体会
-category: opinion
-description: 豆瓣FM发布了全新设计的3.0版本，很多Feature不错
+category: blog
+description: 拍照应用交互体验
 ---
 
-豆瓣FM发布了全新设计的3.0版本，很多Feature不错：
+目的: 了解当前流行的拍照分享应用的交互设计和体验
+从用户角度，对Instagram、美图秀秀、魔漫相机三款应用的进行交互体验分析
+
 
 <ul>
-    <li>全新设计，清新、大气</li>
-    <li>操作流畅爽滑，运行交互效率很高</li>
-    <li>终于有歌词啦</li>
+    <li>体验的应用均为android版</li>
 </ul>
 
-使用中总结了一些体会，非常感性、毫无逻辑可言，看看就好：
 
-##产品定位
+
+##Instagram
 
 豆瓣FM的产品定位，摘抄如下：
 
