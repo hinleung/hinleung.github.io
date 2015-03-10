@@ -5,6 +5,7 @@ description: <a href="/dianboapp"><img src="/images/GV/点播应用/首页02.jpg
 category: work
 ---
 
+<img src="/images/GV/点播应用/1.jpg">
 <img src="/images/GV/点播应用/首页02.jpg">
 <img src="/images/GV/点播应用/电影01.jpg">
 <img src="/images/GV/点播应用/电视剧详情01.jpg">
